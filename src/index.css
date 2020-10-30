@@ -245,3 +245,12 @@ code {
   top: 16px;
   right: 0;
 }
+
+.root {
+    background-color: black;
+    min-height: 100vh;
+    font-family: 'Inter';
+    padding-bottom: 194px;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}

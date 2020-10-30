@@ -10,8 +10,8 @@ export const PopCloseContext = React.createContext()
 
 const MainLayout = () => {
     const [person, setPerson] = useState({
-        name: 'Luk Beson',
-        info: 'Skywalker'
+        name: 'Jaques Causteau',
+        info: 'Sailor, Researcher'
     });
     const [dataItems, setDataItems] = useState(data);
     const [popUpVisible, setPopUpVisible] = useState({
